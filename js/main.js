@@ -9,3 +9,4 @@ function initScene() {
     initBasicElements(); // Scene, Camera and Render
     createFistModel("./images/humanoide/","humanoide.mtl","humanoide.obj");
 }
+
